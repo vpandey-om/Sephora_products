@@ -1,6 +1,6 @@
-**About Dataset and use **
+**About Dataset and use**
 This dataset was collected From [kaggle](https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews):
-First download the data in ** sephora ** folder.
+First download the data in **sephora** folder.
 
 Information about all beauty products (over 8,000) from the Sephora online store, including product and brand names, prices, ingredients, ratings, and all features.
 user reviews (over 1 million on over 2,000 products) of all products from the Skincare category, including user appearances, and review ratings by other users
