@@ -1,0 +1,8 @@
+sephora/archive.zip filter=lfs diff=lfs merge=lfs -text
+sephora/reviews_750_1000.csv filter=lfs diff=lfs merge=lfs -text
+sephora/product_info.csv filter=lfs diff=lfs merge=lfs -text
+sephora/reviews_0_250.csv filter=lfs diff=lfs merge=lfs -text
+sephora/reviews_1000_1500.csv filter=lfs diff=lfs merge=lfs -text
+sephora/reviews_1500_end.csv filter=lfs diff=lfs merge=lfs -text
+sephora/reviews_250_500.csv filter=lfs diff=lfs merge=lfs -text
+sephora/reviews_500_750.csv filter=lfs diff=lfs merge=lfs -text
